@@ -1,3 +1,3 @@
 # fox-forks
 
-When making contributions, [I](https://github.com/hyperupcall) fork repositories here.
+[Edwin's](https://github.com/hyperupcall) forks of repositories when making contributions.
